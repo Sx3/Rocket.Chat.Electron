@@ -3,13 +3,13 @@
   "workspaces": [
     "workspaces/*"
   ],
-  "productName": "Rocket.Chat",
-  "name": "rocketchat",
-  "description": "Official OSX, Windows, and Linux Desktop Clients for Rocket.Chat",
+  "productName": "QuikBox Chat",
+  "name": "quikboxchat",
+  "description": "QuikBox Chat Desktop Client",
   "version": "3.9.10",
-  "author": "Rocket.Chat Support <support@rocket.chat>",
-  "copyright": "© 2016-2023, Rocket.Chat",
-  "homepage": "https://rocket.chat",
+  "author": "QuikBox Chat Support <support@quikbox.com>",
+  "copyright": "© 2023, QuikBox Solutions Inc.",
+  "homepage": "https://quikbox.com",
   "license": "MIT",
   "goUrlShortener": "go.rocket.chat",
   "keywords": [
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RocketChat/Rocket.Chat.Electron.git"
+    "url": "git+https://github.com/Sx3/Rocket.Chat.Electron.git"
   },
   "bugs": {
     "url": "https://github.com/RocketChat/Rocket.Chat.Electron/issues"
